@@ -35,7 +35,7 @@ const Header = () => {
             <div id="menu-btn" className="fas fa-bars" onClick={menuDesplegable}></div>
 
             <NavLink className="logo" to="/">
-                <p>=(<span>NAHUEL61920</span>)=></p>
+                <p>Enmanuel Bayen</p>
             </NavLink>
 
             <nav className="navbar">

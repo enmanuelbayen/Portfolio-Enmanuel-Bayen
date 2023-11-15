@@ -53,7 +53,7 @@ const About = () => {
               <p>
                 <FormattedMessage
                   id='about-info-1'
-                  defaultMessage="Hi, I'm Esteban Nahuel Carrizo, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page."
+                  defaultMessage="Hi, I'm Enmanuel Bayen, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page."
                 />
               </p>
 
@@ -113,16 +113,6 @@ const About = () => {
                   />
                 </p>
               </div>
-              <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="Sass" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" />
-                <h2 className="skill-name">Sass</h2>
-                <p className="skill-info">
-                  <FormattedMessage
-                    id='about-skills-4'
-                    defaultMessage='One year using this preprocessor in the professional field, I include it in many of my projects since it allows me a better structured code.'
-                  />
-                </p>
-              </div>
               <div className="skill-card" data-aos="flip-down" data-aos-delay="300">
                 <img alt="Bootstrap" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
                 <h2 className="skill-name">Bootstrap</h2>
@@ -134,12 +124,12 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-right" data-aos-delay="300">
-                <img alt="jQuery" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" />
-                <h2 className="skill-name">jQuery</h2>
+                <img alt="PostgreSQL" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+                <h2 className="skill-name">PostgreSQL</h2>
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-6'
-                    defaultMessage='A year using this bookstore in the personal and work environment, it is one of the bookstores that I use and manipulate the most.'
+                    defaultMessage='Main tool for DataBase that I learn while in Microverse course.'
                   />
                 </p>
               </div>
@@ -164,8 +154,8 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="jQuery" />
-                <h2 className="skill-name">Express</h2>
+                <img alt="Ruby" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" />
+                <h2 className="skill-name">Ruby</h2>
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-9'
