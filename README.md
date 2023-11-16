@@ -65,7 +65,8 @@ Will have future changes in the next days!
 
 1 Add HTML <br>
 2 Add CSS<br>
-3 add linters<br>
+3 React<br>
+4 add linters<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +97,7 @@ Use these commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/enmanuelbayen/Hello-Microverse/tree/main
+  git clone https://github.com/enmanuelbayen/Portfolio-Enmanuel-Bayen.git
 ```
 --->
 
@@ -138,26 +139,6 @@ Work in progress.
 - GitHub: [@enmanuelbayen](https://github.com/enmanuelbayen)
 - Twitter: [@EJbayen](https://twitter.com/EJbayen)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enmanuel-bayen-torres-480906128/)
-
-👤 **Ignacio Fino**
-- GitHub: [@Alejuda](https://github.com/Alejuda)
-
-
-👤 **Juan Guerra**
-- GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
-
-👤 **Gabriel Rozas**
-
-- GitHub: [@EmiLoKiJu](https://github.com/EmiLoKiJu)
-- Twitter: [@GabrielRozas12](https://twitter.com/GabrielRozas12)
-- LinkedIn: [grozas](https://www.linkedin.com/in/grozas/)
-
-👤 Sergio Peralta
-
-- GitHub: [@SergioPeralta22](https://github.com/SergioPeralta22)
-- Twitter: [@SePeralta22](https://twitter.com/SePeralta22)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/sergioperalta22)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
