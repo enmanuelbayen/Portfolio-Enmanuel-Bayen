@@ -62,8 +62,8 @@ const HeaderPage = () => {
                     />
                 </NavLink>
                 <div id="buttons">
-                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://nahuel61920.github.io/Portafoliovirtual/img/en.png" alt="EEUU" />
-                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://nahuel61920.github.io/Portafoliovirtual/img/es.png" alt="España" />
+                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://img.icons8.com/color/48/usa.png" alt="EEUU" />
+                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://img.icons8.com/color/96/spain-2.png" alt="España" />
                 </div>
             </nav>
             <div className="switch" id="switch">
