@@ -53,7 +53,7 @@ const About = () => {
               <p>
                 <FormattedMessage
                   id='about-info-1'
-                  defaultMessage="Hi, I'm Enmanuel Bayen, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page."
+                  defaultMessage="Hello! My name is Enmanuel and I'm a full-stack developer! My goal is to contribute to a better UI, Accessible user experience."
                 />
               </p>
 
@@ -61,14 +61,14 @@ const About = () => {
                 <p>
                   <FormattedMessage
                     id='about-info-2'
-                    defaultMessage='I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.'
+                    defaultMessage='Through Microverse, I have been able to develop my skills in HTML, CSS, JS, Ruby, and React-Redux. My latest project is an app developed in React(CRA) that allows users to reserve rockets and register for space missions, you can see the project here: space-travelers-hub-snowy.vercel.app/. While doing so I gain experience in communication, and problem-solving while working remotely in a cross-cultural environment.'
                   />
                 </p>
 
                 <p>
                   <FormattedMessage
                     id='about-info-3'
-                    defaultMessage="I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development."
+                    defaultMessage="In addition to my technical skills, my experience as an assistant account and camp guide has given me a strong foundation in discipline and perseverance. I am committed to completing any task I am given, no matter how challenging it may be. In my free time, I like to spend time with people I love, play video games with friends, watch series/movies on weekends, and do sports!"
                   />
                 </p>
               </div>
@@ -89,7 +89,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-1'
-                    defaultMessage='More than a year of professional experience in this language, allows me to perform without problems in the industry.'
+                    defaultMessage='A year of professional experience in this language, allows me to perform without problems in the industry.'
                   />
                 </p>
               </div>
@@ -99,7 +99,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-2'
-                    defaultMessage='More than a year of work experience in this language, I use it daily to develop web designs and interfaces.'
+                    defaultMessage='A year of work experience in this language, I use it daily to develop web designs and interfaces.'
                   />
                 </p>
               </div>
