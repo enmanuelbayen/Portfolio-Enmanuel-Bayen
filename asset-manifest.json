@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio-Enmanuel-Bayen/public/static/css/main.fc25fe1a.css",
-    "main.js": "/Portfolio-Enmanuel-Bayen/public/static/js/main.8741e8a3.js",
-    "static/js/787.000931bb.chunk.js": "/Portfolio-Enmanuel-Bayen/public/static/js/787.000931bb.chunk.js",
-    "static/media/Thumbs.db": "/Portfolio-Enmanuel-Bayen/public/static/media/Thumbs.735170b30af6b4c4247f.db",
-    "static/media/proyecto-5.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-5.6bb83cf7e83c186530f4.png",
-    "static/media/proyecto-2.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-2.1493cc11faa982ddd1d9.png",
-    "static/media/inicio.png": "/Portfolio-Enmanuel-Bayen/public/static/media/inicio.9e191e0f2820064e6d28.png",
-    "static/media/proyecto-5-com.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-5-com.29949d24ea0939a6e192.png",
-    "static/media/proyecto-1.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-1.6e88b3b36e129beae474.png",
-    "static/media/proyecto-2-com.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-2-com.5511f6d2352302832474.png",
-    "static/media/home.jpg": "/Portfolio-Enmanuel-Bayen/public/static/media/home.342f7c52cbe5ed25bf7c.jpg",
-    "static/media/proyecto-4-com.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-4-com.df2d288298f5b71f8eb5.png",
-    "static/media/proyecto-1-com.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-1-com.84979e9b4acf67491d57.png",
-    "static/media/cv.pdf": "/Portfolio-Enmanuel-Bayen/public/static/media/cv.26d7fe0cf19cc1802a17.pdf",
-    "static/media/proyecto-4.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-4.e6e6c31cb31d32c4ad08.png",
-    "static/media/proyecto-3-com.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-3-com.ba2c20e9656481c994fa.png",
-    "static/media/proyecto-3.png": "/Portfolio-Enmanuel-Bayen/public/static/media/proyecto-3.2f4b42bf08f8466b0df9.png",
-    "index.html": "/Portfolio-Enmanuel-Bayen/public/index.html",
-    "main.fc25fe1a.css.map": "/Portfolio-Enmanuel-Bayen/public/static/css/main.fc25fe1a.css.map",
-    "main.8741e8a3.js.map": "/Portfolio-Enmanuel-Bayen/public/static/js/main.8741e8a3.js.map",
-    "787.000931bb.chunk.js.map": "/Portfolio-Enmanuel-Bayen/public/static/js/787.000931bb.chunk.js.map"
+    "main.css": "/Portfolio-Enmanuel-Bayen/static/css/main.fc25fe1a.css",
+    "main.js": "/Portfolio-Enmanuel-Bayen/static/js/main.26bb31a8.js",
+    "static/js/787.000931bb.chunk.js": "/Portfolio-Enmanuel-Bayen/static/js/787.000931bb.chunk.js",
+    "static/media/Thumbs.db": "/Portfolio-Enmanuel-Bayen/static/media/Thumbs.735170b30af6b4c4247f.db",
+    "static/media/proyecto-5.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-5.6bb83cf7e83c186530f4.png",
+    "static/media/proyecto-2.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-2.1493cc11faa982ddd1d9.png",
+    "static/media/inicio.png": "/Portfolio-Enmanuel-Bayen/static/media/inicio.9e191e0f2820064e6d28.png",
+    "static/media/proyecto-5-com.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-5-com.29949d24ea0939a6e192.png",
+    "static/media/proyecto-1.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-1.6e88b3b36e129beae474.png",
+    "static/media/proyecto-2-com.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-2-com.5511f6d2352302832474.png",
+    "static/media/home.jpg": "/Portfolio-Enmanuel-Bayen/static/media/home.342f7c52cbe5ed25bf7c.jpg",
+    "static/media/proyecto-4-com.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-4-com.df2d288298f5b71f8eb5.png",
+    "static/media/proyecto-1-com.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-1-com.84979e9b4acf67491d57.png",
+    "static/media/cv.pdf": "/Portfolio-Enmanuel-Bayen/static/media/cv.26d7fe0cf19cc1802a17.pdf",
+    "static/media/proyecto-4.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-4.e6e6c31cb31d32c4ad08.png",
+    "static/media/proyecto-3-com.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-3-com.ba2c20e9656481c994fa.png",
+    "static/media/proyecto-3.png": "/Portfolio-Enmanuel-Bayen/static/media/proyecto-3.2f4b42bf08f8466b0df9.png",
+    "index.html": "/Portfolio-Enmanuel-Bayen/index.html",
+    "main.fc25fe1a.css.map": "/Portfolio-Enmanuel-Bayen/static/css/main.fc25fe1a.css.map",
+    "main.26bb31a8.js.map": "/Portfolio-Enmanuel-Bayen/static/js/main.26bb31a8.js.map",
+    "787.000931bb.chunk.js.map": "/Portfolio-Enmanuel-Bayen/static/js/787.000931bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc25fe1a.css",
-    "static/js/main.8741e8a3.js"
+    "static/js/main.26bb31a8.js"
   ]
 }
