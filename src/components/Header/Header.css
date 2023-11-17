@@ -41,6 +41,10 @@
   position: fixed;
 }
 
+#logo {
+  height: 5rem;
+}
+
 #buttons img {
   height: 2rem;
   margin-right: 1rem;

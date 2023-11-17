@@ -13,6 +13,8 @@ import DarkMode from '../DarkMode/DarkMode';
 import { FormattedMessage } from "react-intl";
 import { langContext } from '../../context/Context';
 
+import logo from '../../img/logo.png';
+
 const Header = () => {
     // Buttom language
     const idioma = useContext(langContext);
@@ -35,8 +37,9 @@ const Header = () => {
             <div id="menu-btn" className="fas fa-bars" onClick={menuDesplegable}></div>
 
             <NavLink className="logo" to="/">
-                <p>Enmanuel Bayen</p>
+              <img id='logo' src={logo} alt='logo' />
             </NavLink>
+         
 
             <nav className="navbar">
                 <Link to="inicio" spy={true} offset={-150} href="#inicio">
