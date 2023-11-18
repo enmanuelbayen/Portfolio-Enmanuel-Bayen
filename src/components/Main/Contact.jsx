@@ -85,6 +85,15 @@ const Contact = () => (
                 </div>
             </a>
         </div>
+
+        <div className="contact-form">
+          <form className='form-div' action="https://formsubmit.co/enmanuelbayendev@gmail.com" method="POST">
+            <input className='input-bar' type="name" name="name" placeholder='Name..' />
+            <input className='input-bar' type="email" name="email" placeholder='Email..'/>
+            <textarea className='input-textarea' name="message" id="message" cols="30" rows="10" placeholder='Message..'></textarea>
+            <input id='form-btn' className='custom-btn btn' type="submit" value="submit" />
+          </form> 
+        </div>
     </section>
 );
 

@@ -140,6 +140,48 @@
     opacity: 1;
 }
 
+.form-div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.input-bar {
+  color: #fff;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 6px;
+  background-color: transparent;
+  border: solid 2px #fff;
+  border-radius: 5px;
+}
+
+.input-bar::placeholder {
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.input-textarea {
+  color: #fff;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 6px;
+  background-color: transparent;
+  border: solid 2px #fff;
+  border-radius: 5px;
+}
+
+.input-textarea::placeholder {
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+#form-btn {
+    align-self: center;
+}
+
 /********************** Media Q **********************/
 
 @media (max-width: 990px) {
